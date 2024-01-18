@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 local.settings.json
+all-companies-queries/output/output-1705587987.065741.csv
